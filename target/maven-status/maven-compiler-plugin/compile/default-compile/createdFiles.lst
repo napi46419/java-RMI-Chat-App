@@ -1,0 +1,5 @@
+ServerSide\Chat.class
+ServerSide\Chattable.class
+ClientSide\ClientRMIGUI$1.class
+ClientSide\ClientRMIGUI.class
+ClientSide\ClientRMIGUI$2.class
